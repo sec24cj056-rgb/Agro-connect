@@ -1,0 +1,5 @@
+{
+  "name": "INGRES AI ChatBOT",
+  "description": "An advanced, AI-driven ChatBOT for the India Ground Water Resource Estimation System (INGRES). Features secure login, chat history, multilingual support, and interactive data visualizations to provide instant insights into groundwater resources.",
+  "requestFramePermissions": []
+}
